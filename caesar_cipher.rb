@@ -1,4 +1,3 @@
-#beware! what follows is completely unoptimized code.
 
 def caesar_cipher(offset, string)
 
